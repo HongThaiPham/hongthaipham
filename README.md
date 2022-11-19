@@ -1,4 +1,4 @@
-### Hi there 👋! I', Leo
+### Hi there 👋! I'm Leo
 
 [![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongthaipham&show_icons=true&count_private=true&theme=darcula)](https://github.com/hongthaipham)
 
