@@ -1,11 +1,20 @@
-### Hi there 👋! I'm Leo
+## Hi there 👋! I'm Leo
+
+[![Twitter: leopham](https://img.shields.io/twitter/follow/leopham?style=social)](https://twitter.com/leopham_it)
+[![Linkedin: leopham](https://img.shields.io/badge/-leopham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/leo-pham-1208/))]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/leo-pham-1208/))
+[![GitHub leopham](https://img.shields.io/github/followers/hongthaipham?label=follow&style=social)](https://github.com/hongthaipham)
+
 
 [![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hongthaipham&show_icons=true&count_private=true&theme=darcula)](https://github.com/hongthaipham)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongthaipham&layout=compact)](https://github.com/hongthaipham)
 
 ## Tech stack
+<p align="center">
+<img src="https://img.shields.io/badge/-orange?style=flat-square&logo=dotnet" />
+</p>
 
+[![@leopham's Holopin board](https://holopin.io/api/user/board?user=leopham)](https://holopin.io/@leopham)
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -17,9 +26,7 @@
 <a href="mailto:hongthai@lhu.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-hongthai@lhu.edu.vn-important?style=flat-square&logo=gmail"></a>
 </p>
 
-[![Twitter: leopham](https://img.shields.io/twitter/follow/leopham?style=social)](https://twitter.com/leopham_it)
-[![Linkedin: leopham](https://img.shields.io/badge/-leopham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/leo-pham-1208/))]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/leo-pham-1208/))
-[![GitHub leopham](https://img.shields.io/github/followers/hongthaipham?label=follow&style=social)](https://github.com/hongthaipham)
+
 
 
 <!--
