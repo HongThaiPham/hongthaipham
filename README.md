@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongthaipham&layout=compact)](https://github.com/hongthaipham)
 
+## Tech stack
+
 
 <h3> 🤝🏻 Connect with Me </h3>
 
@@ -14,6 +16,11 @@
 <a href="mailto:hongthaipro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hongthaipro@gmail.com-orange?style=flat-square&logo=gmail"></a>
 <a href="mailto:hongthai@lhu.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-hongthai@lhu.edu.vn-important?style=flat-square&logo=gmail"></a>
 </p>
+
+[![Twitter: leopham](https://img.shields.io/twitter/follow/leopham?style=social)](https://twitter.com/leopham_it)
+[![Linkedin: leopham](https://img.shields.io/badge/-leopham-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/leo-pham-1208/))]([https://www.linkedin.com/in/thaianebraga/](https://www.linkedin.com/in/leo-pham-1208/))
+[![GitHub leopham](https://img.shields.io/github/followers/hongthaipham?label=follow&style=social)](https://github.com/hongthaipham)
+
 
 <!--
 **HongThaiPham/hongthaipham** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
