@@ -8,11 +8,11 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.leopham.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.leopham.dev-blue?style=flat-square&logo=google-chrome"></a>
-<a href="https://www.facebook.com/hongthaipro"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Leo%20Phạm-blue?style=flat-square&logo=facebook"></a>
-<a href="https://www.instagram.com/leopham1132/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leopham-blue?style=flat-square&logo=instagram"></a>
-<a href="mailto:hongthaipro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hongthaipro@gmail.com-blue?style=flat-square&logo=gmail"></a>
-<a href="mailto:hongthai@lhu.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-hongthai@lhu.edu.vn-green?style=flat-square&logo=gmail"></a>
+<a href="https://www.leopham.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.leopham.dev-orange?style=flat-square&logo=google-chrome"></a>
+<a href="https://www.facebook.com/hongthaipro"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Leo%20Phạm-orange?style=flat-square&logo=facebook"></a>
+<a href="https://www.instagram.com/leopham1132/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leopham-orange?style=flat-square&logo=instagram"></a>
+<a href="mailto:hongthaipro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hongthaipro@gmail.com-orange?style=flat-square&logo=gmail"></a>
+<a href="mailto:hongthai@lhu.edu.vn"><img alt="Email" src="https://img.shields.io/badge/Email-hongthai@lhu.edu.vn-important?style=flat-square&logo=gmail"></a>
 </p>
 
 <!--
