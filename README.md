@@ -16,6 +16,8 @@
 
 [![@leopham's Holopin board](https://holopin.io/api/user/board?user=leopham)](https://holopin.io/@leopham)
 
+[![@leopham's tropy](https://github-profile-trophy.vercel.app/?username=HongThaiPham)](https://github-profile-trophy.vercel.app/?username=HongThaiPham)
+
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
