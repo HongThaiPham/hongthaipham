@@ -25,10 +25,8 @@
 
 
 ## Tech stack
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=github,git,docker,linux,aws" />
-    <img src="https://skillicons.dev/icons?i=python,rust,typescript,c#,dotnet" /><br>
-</div>
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,git,docker,bash,linux,python,rust,typescript,cs,dotnet,css,html,js,jquery,react,vue,nextjs,postgres,&perline=6)](https://skillicons.dev)
+
 
 
 <br>
