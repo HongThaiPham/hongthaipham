@@ -25,7 +25,7 @@
 
 
 ## Tech stack
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,git,docker,bash,linux,python,rust,typescript,cs,dotnet,css,html,js,jquery,react,vue,nextjs,postgres,&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,git,docker,bash,linux,python,rust,typescript,cs,dotnet,css,html,js,jquery,react,vue,nextjs,postgres)](https://skillicons.dev)
 
 
 
