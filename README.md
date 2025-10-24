@@ -10,7 +10,7 @@
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-![Twitter: leopham](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fleopham_it&style=for-the-badge&logo=x)
+[![Twitter: leopham](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fleopham_it&style=for-the-badge&logo=x)]
 <a href="https://twitter.com/leopham_it"><img alt="Twitter" src="https://img.shields.io/badge/Website-www.leopham.dev-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.facebook.com/hongthaipro"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Leo%20Phạm-orange?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/leopham1132/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leopham-orange?style=flat-square&logo=instagram"></a>
