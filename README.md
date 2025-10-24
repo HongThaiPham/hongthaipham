@@ -28,11 +28,16 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongthaipham&layout=compact)](https://github.com/hongthaipham)
 
+
 ## Tech stack
 <div align="center">
     <img src="https://skillicons.dev/icons?i=github,git,docker,linux,aws" />
     <img src="https://skillicons.dev/icons?i=python,rust,typescript,c#,dotnet" /><br>
 </div>
+
+
+<br>
+
 
 [![@leopham's Holopin board](https://holopin.io/api/user/board?user=leopham)](https://holopin.io/@leopham)
 
