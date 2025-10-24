@@ -3,14 +3,15 @@
 </h1>
 
 [![Twitter: leopham](https://img.shields.io/twitter/follow/leopham?style=social)](https://twitter.com/leopham_it)
-[![Linkedin: leopham](https://img.shields.io/badge/-leopham-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leo-pham-1208/))
+[![Linkedin: leopham](https://img.shields.io/badge/-leopham-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/leo-pham-1208/)
 [![GitHub leopham](https://img.shields.io/github/followers/hongthaipham?label=follow&style=social)](https://github.com/hongthaipham)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=HongThaiPham.HongThaiPham" />
 
 <h3> 🤝🏻 Connect with Me </h3>
 
 <p align="center">
-<a href="https://www.leopham.dev/"><img alt="Website" src="https://img.shields.io/badge/Website-www.leopham.dev-orange?style=flat-square&logo=google-chrome"></a>
+![Twitter: leopham](https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fleopham_it&style=for-the-badge&logo=x)
+<a href="https://twitter.com/leopham_it"><img alt="Twitter" src="https://img.shields.io/badge/Website-www.leopham.dev-orange?style=flat-square&logo=google-chrome"></a>
 <a href="https://www.facebook.com/hongthaipro"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Leo%20Phạm-orange?style=flat-square&logo=facebook"></a>
 <a href="https://www.instagram.com/leopham1132/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leopham-orange?style=flat-square&logo=instagram"></a>
 <a href="mailto:hongthaipro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hongthaipro@gmail.com-orange?style=flat-square&logo=gmail"></a>
