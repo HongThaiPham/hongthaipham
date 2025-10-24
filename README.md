@@ -11,9 +11,9 @@
 
 <p align="center">
     <a href="https://twitter.com/leopham_it"><img alt="Twitter" src="https://img.shields.io/twitter/url?url=https%3A%2F%2Ftwitter.com%2Fleopham_it&style=for-the-badge&logo=x"></a>
-    <a href="https://www.facebook.com/hongthaipro"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Leo%20Phạm-orange?style=flat-square&logo=facebook"></a>
-    <a href="https://www.instagram.com/leopham1132/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leopham-orange?style=flat-square&logo=instagram"></a>
-    <a href="mailto:hongthaipro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hongthaipro@gmail.com-orange?style=flat-square&logo=gmail"></a>
+    <a href="https://www.facebook.com/hongthaipro"><img alt="Facebook" src="https://img.shields.io/badge/Facebook-Leo%20Phạm-orange?style=for-the-badge&logo=facebook"></a>
+    <a href="https://www.instagram.com/leopham1132/"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-leopham-orange?style=for-the-badge&logo=instagram"></a>
+    <a href="mailto:hongthaipro@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-hongthaipro@gmail.com-orange?style=for-the-badge&logo=gmail"></a>
 </p>
 
 <div align="center">
